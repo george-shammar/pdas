@@ -5,9 +5,9 @@ function App() {
   return <div>
     <div>PROFILE HEADER</div>
     <div>
-      <ProfileCard />
-      <ProfileCard />
-      <ProfileCard />
+      <ProfileCard  title="Alexa" />
+      <ProfileCard title="Siri" />
+      <ProfileCard title="Jago" />
     </div>
   </div>
 };
